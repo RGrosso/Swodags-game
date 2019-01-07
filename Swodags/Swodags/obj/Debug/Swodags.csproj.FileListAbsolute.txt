@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.exe.config
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.exe
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.pdb
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.exe
+C:\Users\Administrator\Desktop\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.pdb
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.exe.config
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.exe
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\bin\Debug\Swodags.pdb
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.csprojAssemblyReference.cache
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.csproj.CoreCompileInputs.cache
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.exe
+C:\Users\ryang\Desktop\QA Code\VS Work 2\Swodags\Swodags\obj\Debug\Swodags.pdb
